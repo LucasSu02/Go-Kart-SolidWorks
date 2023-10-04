@@ -16,7 +16,7 @@ Frame Exploded View
 ![Frame Exploded View](https://github.com/LucasSu02/Mario-Kart-SolidWorks/assets/107900771/b2a2f0c9-eb05-457f-a295-c996b7b54fbe)
 
 Steering System Exploded View
-![Steering System Exploded View](https://github.com/LucasSu02/Mario-Kart-SolidWorks/assets/107900771/cbc8f5ab-a37b-48e4-908b-44587d486b7f)
+![image](https://github.com/LucasSu02/Mario-Kart-SolidWorks/assets/107900771/47a3b201-92e3-46a0-8d43-093d4640582b)
 
 Trottle Exploded View
 ![Throttle Exploded View](https://github.com/LucasSu02/Mario-Kart-SolidWorks/assets/107900771/cf60bf75-ba36-40a1-87fd-12a0a5c11648)
